@@ -1,3 +1,4 @@
+[magisk_install_log_۲۰۲۳-۱۱-۱۴T۱۸.۱۰.۳۴.log](https://github.com/topjohnwu/Magisk/files/13350579/magisk_install_log_.-.-.T.log)
 # Frequently Asked Questions
 
 ### Q: I installed a module and it bootlooped my device. Help!
